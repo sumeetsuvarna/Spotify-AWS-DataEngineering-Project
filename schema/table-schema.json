@@ -1,0 +1,62 @@
+﻿[
+  {
+    "Name": "followers",
+    "Type": "string"
+  },
+  {
+    "Name": "track_id",
+    "Type": "string"
+  },
+  {
+    "Name": "artist_popularity",
+    "Type": "string"
+  },
+  {
+    "Name": "artist_id",
+    "Type": "string"
+  },
+  {
+    "Name": "album_id",
+    "Type": "string"
+  },
+  {
+    "Name": "duration_ms",
+    "Type": "string"
+  },
+  {
+    "Name": "album_name",
+    "Type": "string"
+  },
+  {
+    "Name": "name",
+    "Type": "string"
+  },
+  {
+    "Name": "duration_sec",
+    "Type": "string"
+  },
+  {
+    "Name": "track_name",
+    "Type": "string"
+  },
+  {
+    "Name": "track_popularity",
+    "Type": "string"
+  },
+  {
+    "Name": "label",
+    "Type": "string"
+  },
+  {
+    "Name": "release_date",
+    "Type": "string"
+  },
+  {
+    "Name": "album_popularity",
+    "Type": "string"
+  },
+  {
+    "Name": "genre",
+    "Type": "string"
+  }
+]
